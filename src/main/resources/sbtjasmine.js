@@ -185,6 +185,8 @@ function runTests(appJsRoot, appJsLibRoot, testRoot, confFile, envHtml) {
               fileIn.close();
               fileIn = null;
             }
+
+            print();
         }
     }
 
